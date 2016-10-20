@@ -1,0 +1,31 @@
+
+#
+# Altium
+#
+*.SchLib: binary
+*.PcbLib: binary
+*.IntLib: binary
+*.SchDoc: binary
+*.PcbDoc: binary
+*.PrjPCB: binary
+*.PCB: binary
+
+#
+# Screenshots / Documentation
+#
+*.jpg: binary
+*.png: binary
+README.*: text
+
+#
+# Gerber
+#
+*.GM1: text
+*.GM3: text
+*.GM13: text
+*.GM15: text
+*.GTL: text
+*.GBL: text
+*.GKO: text
+*.TXT: text
+
